@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1637779090 source:c:\users\mmani\desktop\repairtime\doublylinkedlistsolution\main.cpp
+	<iostream>
+	<string>
+	"DoublyLinkedList.h"
+
+1637779754 c:\users\mmani\desktop\repairtime\doublylinkedlistsolution\doublylinkedlist.h
+
+1637779090 source:c:\users\mmani\desktop\repairtime\doublylinkedlistproblem\main.cpp
+	<iostream>
+	<string>
+	"DoublyLinkedList.h"
+
+1637780304 c:\users\mmani\desktop\repairtime\doublylinkedlistproblem\doublylinkedlist.h
+
+1638980887 source:d:\school\csc375\hw5\doublylinkedlistproblem\doublylinkedlistproblem\main.cpp
+	<iostream>
+	<string>
+	"DoublyLinkedList.h"
+
+1638986878 d:\school\csc375\hw5\doublylinkedlistproblem\doublylinkedlistproblem\doublylinkedlist.h
+
